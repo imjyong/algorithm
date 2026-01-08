@@ -1,7 +1,7 @@
 # macOS
 .DS_Store
 
-# IntelliJ IDEA
+# IntelliJ IDEA (Java, C, Python 공통)
 .idea/
 *.iws
 *.iml
@@ -23,6 +23,13 @@ __pycache__/
 venv/
 .venv/
 env/
+
+# C / C++
+*.o
+*.obj
+*.out
+*.exe
+*.dSYM/
 
 # VS Code
 .vscode/
