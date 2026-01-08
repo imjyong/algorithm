@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Java
+*.class
+# Gradle/Maven
+build/
+target/
+.gradle/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# 입력 테스트용 파일
+input.txt
+output.txt
